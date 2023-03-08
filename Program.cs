@@ -50,15 +50,3 @@ Console.Write($"{count}; ");
 count+=2;
 }
 
-/*
-while (A<=N)
-{
-Console.Write($"{A} ");
-A++;
-}
-
-Console.Write ("Введите трехзначное число: ");
-int N = int.Parse(Console.ReadLine ()!);
-
-Console.Write (N%10);
-*/
